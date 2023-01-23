@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mini-iPod/static/css/main.96b36840.css",
+    "main.js": "/mini-iPod/static/js/main.cf596d70.js",
+    "static/media/yummy.mp3": "/mini-iPod/static/media/yummy.8283f1f744f4e50d4c3e.mp3",
+    "static/media/coverflow.png": "/mini-iPod/static/media/coverflow.41c2df5c35f1126c454a.png",
+    "static/media/deserve-you.mp3": "/mini-iPod/static/media/deserve-you.d62eb2ea1f49c3b744ca.mp3",
+    "static/media/stay.mp3": "/mini-iPod/static/media/stay.05b4658e1f90b4fbbb74.mp3",
+    "static/media/games.gif": "/mini-iPod/static/media/games.71933ef709f2116aa27c.gif",
+    "static/media/allsongs.gif": "/mini-iPod/static/media/allsongs.9d22b3513a812e732090.gif",
+    "static/media/wallpaper2.jpg": "/mini-iPod/static/media/wallpaper2.5a2ce28161704371dc88.jpg",
+    "static/media/songs.gif": "/mini-iPod/static/media/songs.196c6e15c31ab2d06d53.gif",
+    "static/media/wallpaper3.jpg": "/mini-iPod/static/media/wallpaper3.cccfac7920ee00675ae6.jpg",
+    "static/media/wallpaper1.jpg": "/mini-iPod/static/media/wallpaper1.679a2d53c0d1c04ca21d.jpg",
+    "static/media/wallpaper4.jpg": "/mini-iPod/static/media/wallpaper4.3c3f87155ecfa48bdc1c.jpg",
+    "static/media/wallpaper5.jpg": "/mini-iPod/static/media/wallpaper5.21dfaf8a37958cc0b06a.jpg",
+    "index.html": "/mini-iPod/index.html",
+    "main.96b36840.css.map": "/mini-iPod/static/css/main.96b36840.css.map",
+    "main.cf596d70.js.map": "/mini-iPod/static/js/main.cf596d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b36840.css",
+    "static/js/main.cf596d70.js"
+  ]
+}
